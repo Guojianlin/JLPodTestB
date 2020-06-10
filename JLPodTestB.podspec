@@ -91,7 +91,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "JLPodTestB/Classes/*"
+  spec.source_files  = "JLPodTestB/**/*"
   #spec.exclude_files = "JLPodTestB/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
